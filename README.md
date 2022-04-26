@@ -8,7 +8,7 @@ Program that tracks your hands movements and moves a robotic arm accordingly.
 2. Connect the robotic arm to the arduino.
 3. Run pyFirmata on the arduino and connect the arduino to the computer.
 4. Connect the kinect to the computer using a usb adaptor. (It has to be the XBox 360 kinect, not the XBox One version)
-5. Install all the dependencies.
+5. Install all the python script dependencies.
 6. Run the python script.
 7. Enjoy the robotic action!
 
